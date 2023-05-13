@@ -2,7 +2,6 @@
 
 ## GOALS
 
-
 #### The main goal of this test is to create a client side web application that reproduces the screenshots below by using [GitHub API](https://developer.github.com/v3/) .
 
 We will only evaluate the client side code and the criteria will be based mainly on:
